@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C3C67D5-1F5C-4883-AD16-26796D826496}|ServiceWorkerTest\\ServiceWorkerTest.csproj|c:\\users\\carloscc.cainco\\source\\repos\\serviceworkertest\\serviceworkertest\\backgroundworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3C67D5-1F5C-4883-AD16-26796D826496}|ServiceWorkerTest\\ServiceWorkerTest.csproj|solutionrelative:serviceworkertest\\backgroundworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C3C67D5-1F5C-4883-AD16-26796D826496}|ServiceWorkerTest\\ServiceWorkerTest.csproj|c:\\users\\carloscc.cainco\\source\\repos\\serviceworkertest\\serviceworkertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C3C67D5-1F5C-4883-AD16-26796D826496}|ServiceWorkerTest\\ServiceWorkerTest.csproj|solutionrelative:serviceworkertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BackgroundWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\ServiceWorkerTest\\BackgroundWorkerService.cs",
+              "RelativeDocumentMoniker": "ServiceWorkerTest\\BackgroundWorkerService.cs",
+              "ToolTip": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\ServiceWorkerTest\\BackgroundWorkerService.cs",
+              "RelativeToolTip": "ServiceWorkerTest\\BackgroundWorkerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:58:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\ServiceWorkerTest\\Program.cs",
               "RelativeDocumentMoniker": "ServiceWorkerTest\\Program.cs",
               "ToolTip": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\ServiceWorkerTest\\Program.cs",
               "RelativeToolTip": "ServiceWorkerTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T13:25:17.047Z",
               "EditorCaption": ""

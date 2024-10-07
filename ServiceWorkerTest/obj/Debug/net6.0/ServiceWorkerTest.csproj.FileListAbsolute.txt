@@ -30,3 +30,4 @@ C:\Users\carloscc.CAINCO\source\repos\ServiceWorkerTest\ServiceWorkerTest\obj\De
 C:\Users\carloscc.CAINCO\source\repos\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ServiceWorkerTest.pdb
 C:\Users\carloscc.CAINCO\source\repos\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ServiceWorkerTest.genruntimeconfig.cache
 C:\Users\carloscc.CAINCO\source\repos\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ref\ServiceWorkerTest.dll
+C:\Users\carloscc.CAINCO\source\repos\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ServiceWorkerTest.sourcelink.json
