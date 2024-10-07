@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
+	 <!-- Cambiado de Exe a WinExe -->
+    <OutputType>WinExe</OutputType> 
+    <!--<OutputType>Exe</OutputType>-->
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-MyWorkerService-39f15de0-7bf5-4afe-a87f-aae3c3557aed</UserSecretsId>
@@ -9,5 +12,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="6.0.2" />
   </ItemGroup>
 </Project>
