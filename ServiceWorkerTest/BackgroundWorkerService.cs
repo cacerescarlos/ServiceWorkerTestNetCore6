@@ -1,24 +1,20 @@
-﻿
-public class BackgroundWorkerService : IHostedService
+﻿using System.Threading;
+
+public class BackgroundWorkerService : BackgroundService
 {
     readonly ILogger<BackgroundWorkerService> _logger;
     public BackgroundWorkerService(ILogger<BackgroundWorkerService> logger)
     {
         _logger = logger;
     }
-    public async Task StartAsync(CancellationToken cancellationToken)
-    {
-        _logger.LogInformation("Service started.");
 
-        while(!cancellationToken.IsCancellationRequested ) { // Va ejecutar mientras no se ponga stop.
+    protected override async Task ExecuteAsync(CancellationToken stoppingToken)
+    {
+        //_logger.LogInformation("Service started.");
+        while (!stoppingToken.IsCancellationRequested)
+        { // Va ejecutar mientras no se ponga stop.
             _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-            await Task.Delay(1000, cancellationToken);
+            await Task.Delay(1000, stoppingToken);
         }
-    }
-
-    public Task StopAsync(CancellationToken cancellationToken)
-    {
-        _logger.LogInformation("Service stop.");
-        return Task.CompletedTask;
     }
 }
