@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3C67D5-1F5C-4883-AD16-26796D826496}|ServiceWorkerTest\\ServiceWorkerTest.csproj|c:\\users\\carloscc.cainco\\source\\repos\\serviceworkertest\\serviceworkertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3C67D5-1F5C-4883-AD16-26796D826496}|ServiceWorkerTest\\ServiceWorkerTest.csproj|solutionrelative:serviceworkertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\ServiceWorkerTest\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceWorkerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\carloscc.CAINCO\\source\\repos\\ServiceWorkerTest\\ServiceWorkerTest\\Program.cs",
+              "RelativeToolTip": "ServiceWorkerTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:25:17.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
